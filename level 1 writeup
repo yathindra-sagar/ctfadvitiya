@@ -1,0 +1,10 @@
+I searched each code (e.g., CJCF2222+22) one by one in Google Search.
+
+Google suggested possible map locations related to each code.
+
+Clicking on the map result, I right-clicked on the pinpointed location and and i  got the exact latitude and longitude values.
+From the extracted coordinates, I took only the integer part (before the decimal point).
+
+I then checked the corresponding ASCII characters for those integer values.
+
+Combining the results from multiple locations, I obtained the decrypted word: NEBULARK.
